@@ -1,4 +1,4 @@
-baseURL = 'https://ilovenetworks.netlify.app/'
+baseURL = 'https://ilovenetworks.netlify.app'
 languageCode = 'en-us'
 title = 'iLoveNetworks'
 theme = "ILN"
